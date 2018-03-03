@@ -9,3 +9,6 @@ See also: ![html-project](https://github.com/zixuan75/html_project)
 ![Screenshot 1](post.png)
 ![Screenshot 2](foulder.png)
 ---
+# Other unrelated to this repository
+ - This is the homepage of ![html-project](https://github.com/zixuan75/html_project).
+ - There is no codes with this repository.
